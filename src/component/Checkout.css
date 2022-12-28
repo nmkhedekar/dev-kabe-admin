@@ -1,0 +1,13 @@
+.Onhold{background-color:  #f8dda7;}
+.Rejected{background-color:  #dd3333;}
+.Open{background-color: #000;}
+.Verified{background-color:  #44b5dd;}
+.Deliveryready{background-color:  #0a0404;}
+.Pickupatthestore{background-color:  #4e69c9;}
+.launched{background-color:  #d067d3;}
+.conducted{background-color:  #000;}
+.Pendingpayment{background-color:  #ededed;}
+.Cancelled{background-color:  #ff6b6b;}
+.return{background-color:  #0a0a0a;}
+.Paymentfailed{background-color:  #ff6b6b;}
+.Failed{background-color:  #dd3333;}

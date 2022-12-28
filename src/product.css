@@ -1,0 +1,16 @@
+.txtLeft .control-label{
+	text-align: left;
+}
+.imgFlex{
+	display: flex;
+	justify-content: space-evenly;
+	width: 100%;
+	list-style-type: none;
+}
+
+.xbox .form-control{
+  margin-bottom: 10px;
+}
+.xpadding{
+	padding: 20px;
+}
